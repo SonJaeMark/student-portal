@@ -1,0 +1,34 @@
+@import url('./main-layout.css');
+@import url('./views/my-subjects-view.css');
+@import url('./views/my-grades-view.css');
+@import url('./views/my-schedule-view.css');
+@import url('./views/personal-information-view.css');
+@import url('@fontsource/montserrat/index.css');    html {
+      --lumo-base-color: rgb(250, 247, 252);
+      --lumo-primary-color: rgb(132, 94, 194);
+      --lumo-primary-color-50pct: rgba(132, 94, 194, 0.5);
+      --lumo-primary-color-10pct: rgba(132, 94, 194, 0.1);
+      --lumo-error-color: rgb(195, 74, 54);
+      --lumo-error-color-50pct: rgba(195, 74, 54, 0.5);
+      --lumo-error-color-10pct: rgba(195, 74, 54, 0.1);
+      --lumo-success-color: rgb(0, 201, 167);
+      --lumo-success-color-50pct: rgba(0, 201, 167, 0.5);
+      --lumo-success-color-10pct: rgba(0, 201, 167, 0.1);
+      --lumo-shade: rgb(75, 68, 83);
+      --lumo-shade-5pct: rgba(75, 68, 83, 0.05);
+      --lumo-shade-10pct: rgba(75, 68, 83, 0.1);
+      --lumo-shade-20pct: rgba(75, 68, 83, 0.2);
+      --lumo-shade-30pct: rgba(75, 68, 83, 0.3);
+      --lumo-shade-40pct: rgba(75, 68, 83, 0.4);
+      --lumo-shade-50pct: rgba(75, 68, 83, 0.5);
+      --lumo-shade-60pct: rgba(75, 68, 83, 0.6);
+      --lumo-shade-70pct: rgba(75, 68, 83, 0.7);
+      --lumo-shade-80pct: rgba(75, 68, 83, 0.8);
+      --lumo-shade-90pct: rgba(75, 68, 83, 0.9);
+      --lumo-body-text-color: rgb(75, 68, 83);
+      --lumo-primary-text-color: rgb(132, 94, 194);
+      --lumo-error-text-color: rgb(195, 74, 54);
+      --lumo-success-text-color: rgb(0, 201, 167);
+--lumo-font-family: Montserrat;
+
+    }
